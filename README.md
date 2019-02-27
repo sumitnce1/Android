@@ -30,11 +30,11 @@ README.md
 6
 |**My Website**| [**Visit**](https://sumitnce1.github.io/)
 7
-​
+
 8
 <img src="/sumit.png" width="75%">
 9
-​
+
 10
 # Coding Site
 11
@@ -52,9 +52,9 @@ README.md
 17
 |**CodeChef**| [**Visit**](https://www.codechef.com/users/sumitnce1)
 18
-​
+
 19
-​
+
 20
 # Social
 21
@@ -72,30 +72,7 @@ README.md
 27
 |**YouTube**| [**Visit**](https://www.youtube.com/channel/UC9O21h7f1h98JxyzMLfj1bg?view_as=subscriber)
 28
-​
+
 29
    # **Thank You!**
-30
-​
-@sumitnce1
-Commit changes
-Commit summary 
-Update README.md
-Optional extended description
-Add an optional extended description…
-  Commit directly to the master branch.
-  Create a new branch for this commit and start a pull request. Learn more about pull requests.
- 
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Press h to open a hovercard with more details.
+
