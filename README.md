@@ -5,7 +5,7 @@
 |@| Webisite|
 |-----| -------- |
 |**My Website**| [**Visit**](https://sumitnce1.github.io/)
-|**My Android Repositry**| [**Visit**](
+|**My Android Repositry**| [**Visit**](https://github.com/sumitnce1/Android/)
 
 <img src="/sumit.png" width="75%">
 
@@ -17,6 +17,7 @@
 |**HackerRank**| [**Visit**](https://www.hackerrank.com/sumitnce1)
 |**HackerEarth**| [**Visit**](https://www.hackerearth.com/@sumit1641)
 |**CodeChef**| [**Visit**](https://www.codechef.com/users/sumitnce1)
+
 
 
 # Social
