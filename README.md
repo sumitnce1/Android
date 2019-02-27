@@ -1,27 +1,6 @@
 # Android
 📱📲 Android Project📲 💻 📊 📈
 
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- @sumitnce1 Sign out
-1
-1 0 sumitnce1/BASIC-CODES Private
- Code  Issues 0  Pull requests 0  Projects 0  Insights  Settings
-BASIC-CODES/ 
-README.md
-  or cancel
- Indent modeIndent sizeLine wrap mode
-1
-# BASIC-CODES
-2
-**THIS IS THE REPOSITORY IN CODES BASIC C, C++, JAVA , PYTHON.**
-3
 # Visit My Website
 4
 |@| Webisite|
